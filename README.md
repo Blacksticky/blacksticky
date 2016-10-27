@@ -1,2 +1,2 @@
-# blacksticky
-Black Sticky Design
+# Blacksticky WP theme
+Black Sticky Design Wordpress theme.
